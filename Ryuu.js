@@ -79,7 +79,7 @@ const _petualang = JSON.parse(fs.readFileSync('./lib/rpg/inventori.json'))
 const _healt = JSON.parse(fs.readFileSync('./lib/rpg/healt.json'))
 
 //fotonya
-const fakeimage = fs.readFileSync ('./media/Ryuu.jpg')
+const fakeimage = fs.readFileSync ('./media/uuhD.jpg')
 
 //Setting Owner
 ownernumber = setting.OwnerNumber
